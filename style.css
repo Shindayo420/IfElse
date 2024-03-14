@@ -1,0 +1,9 @@
+#changeMe {
+    width: 400px;
+    height: 400px;
+    margin: 20px auto;
+    background: red;
+}
+body {
+    text-align: center;
+}
